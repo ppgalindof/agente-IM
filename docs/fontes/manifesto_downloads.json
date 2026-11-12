@@ -1,0 +1,189 @@
+{
+  "collected_on": "2026-11-12",
+  "consumer_release_id": "XS5_CONSUMER_V2.10_20260925",
+  "contract_version": "V3",
+  "files": [
+    {
+      "id": "1uvIl9VgAqlIHyE6Z77Nt4yI4cEYxEKOO",
+      "title": "XS5_CONSUMER_CURRENT.md",
+      "url": "https://drive.google.com/file/d/1uvIl9VgAqlIHyE6Z77Nt4yI4cEYxEKOO/view",
+      "mime_type": "text/markdown",
+      "modified_time": "2026-09-28T20:17:11.299Z",
+      "expected_bytes": 5863,
+      "path": "data/consumer/XS5_CONSUMER_CURRENT.md",
+      "sha256": "ae621216a8f507bfc7e67de1b259406dbf444a23dda35c68e5a1c8eddb64f030"
+    },
+    {
+      "id": "1c_KN3rlqokiLy2xiAtZ-TP3eKmtuBiqv",
+      "title": "Contrato_Consumo_XS5_V3.md",
+      "url": "https://drive.google.com/file/d/1c_KN3rlqokiLy2xiAtZ-TP3eKmtuBiqv/view",
+      "mime_type": "text/markdown",
+      "modified_time": "2026-09-25T13:48:52.696Z",
+      "expected_bytes": 7266,
+      "path": "data/consumer/contrato/Contrato_Consumo_XS5_V3.md",
+      "sha256": "c256e9ebf1fc744afaee8a3ebbc96a8ff033d22697f9c9d12638054025fafdd3"
+    },
+    {
+      "id": "160sV5ona5ROdAgEa7wgQO_0ZevtD6XNR",
+      "title": "AIM_RESEARCH_VIEWS_CURRENT.md",
+      "url": "https://drive.google.com/file/d/160sV5ona5ROdAgEa7wgQO_0ZevtD6XNR/view",
+      "mime_type": "text/markdown",
+      "modified_time": "2026-09-25T20:22:08.019Z",
+      "expected_bytes": 2549,
+      "path": "data/consumer/research_views/AIM_RESEARCH_VIEWS_CURRENT.md",
+      "sha256": "f6b9e9f987b0049695098ee91bef1e08f88e7d74a0a77ab8a8295acd5421137f"
+    },
+    {
+      "id": "173RtyLKOG0ZYTT8TgGJbxcpP1oB_iKlk",
+      "title": "AIM_UOTZ_OFFER_RESEARCH_Consumer_v1.0.0_20260925.zip",
+      "url": "https://drive.google.com/file/d/173RtyLKOG0ZYTT8TgGJbxcpP1oB_iKlk/view",
+      "mime_type": "application/zip",
+      "modified_time": "2026-09-25T20:16:24.433Z",
+      "expected_bytes": 124423,
+      "path": "data/consumer/research_views/AIM_UOTZ_OFFER_RESEARCH_Consumer_v1.0.0_20260925.zip",
+      "sha256": "da72d835c623667233260632467e88545d41114e449ade467ca8c48fd752ba3f",
+      "current_sha256": "da72d835c623667233260632467e88545d41114e449ade467ca8c48fd752ba3f"
+    },
+    {
+      "id": "1lhYXwnx4y4aCVfVYncZVQQNFgtWKlVAp",
+      "title": "XS5_AI_CATALOG_v1.4.1_20260928.zip",
+      "url": "https://drive.google.com/file/d/1lhYXwnx4y4aCVfVYncZVQQNFgtWKlVAp/view",
+      "mime_type": "application/zip",
+      "modified_time": "2026-09-28T20:08:45.748Z",
+      "expected_bytes": 117671,
+      "path": "data/consumer/ai_ready/XS5_AI_CATALOG_v1.4.1_20260928.zip",
+      "sha256": "1308cbdb10d4a8d112a058df752c9fa53c632fbf2b297d784c2c542720aac3d4",
+      "current_sha256": "1308cbdb10d4a8d112a058df752c9fa53c632fbf2b297d784c2c542720aac3d4"
+    },
+    {
+      "id": "17mbaSCLXji5h0rWsN3262Cn143gMdQra",
+      "title": "XS5_5.1.2_Market_Share_Competitivo_v1.1.0_20260925.zip",
+      "url": "https://drive.google.com/file/d/17mbaSCLXji5h0rWsN3262Cn143gMdQra/view",
+      "mime_type": "application/zip",
+      "modified_time": "2026-09-25T14:26:10.616Z",
+      "expected_bytes": 17231854,
+      "path": "data/consumer/mart/XS5_5.1.2_Market_Share_Competitivo_v1.1.0_20260925.zip",
+      "sha256": "c9a50b9de7498c1345a555666b987bd98de0c8dd994117008da03a462ed8ced0",
+      "current_sha256": "c9a50b9de7498c1345a555666b987bd98de0c8dd994117008da03a462ed8ced0"
+    },
+    {
+      "id": "1qLezdeZEucZD2fT-OfAhY1OnPmJylZTE",
+      "title": "XS5_Mart_Consumer_v1.4.0_20260925.zip",
+      "url": "https://drive.google.com/file/d/1qLezdeZEucZD2fT-OfAhY1OnPmJylZTE/view",
+      "mime_type": "application/zip",
+      "modified_time": "2026-09-25T14:26:45.967Z",
+      "expected_bytes": 48911359,
+      "path": "data/consumer/mart/XS5_Mart_Consumer_v1.4.0_20260925.zip",
+      "sha256": "3d42730bb8388ce275c0db6f31cde4fb23ee38c347b244086a2781b45225c1b4",
+      "current_sha256": "3d42730bb8388ce275c0db6f31cde4fb23ee38c347b244086a2781b45225c1b4"
+    },
+    {
+      "id": "1VqTQUMWa-3cyt_AoKvQS5hPRGSK1mTWz",
+      "title": "XS5_Sector_Intelligence_Consumer_v1.1_20260924.zip",
+      "url": "https://drive.google.com/file/d/1VqTQUMWa-3cyt_AoKvQS5hPRGSK1mTWz/view",
+      "mime_type": "application/zip",
+      "modified_time": "2026-09-24T13:27:45.470Z",
+      "expected_bytes": 23430,
+      "path": "data/consumer/setorial/XS5_Sector_Intelligence_Consumer_v1.1_20260924.zip",
+      "sha256": "d65a87b7b22549c418a64f5260b3b940c430a8312198b94d6083ec3917582022"
+    },
+    {
+      "id": "1dM56u6Ur1ILrJPAyTtBumWqfDtwUnqsi",
+      "title": "XS5_ABAC_Consumer_v1.1_20260924.zip",
+      "url": "https://drive.google.com/file/d/1dM56u6Ur1ILrJPAyTtBumWqfDtwUnqsi/view",
+      "mime_type": "application/zip",
+      "modified_time": "2026-09-24T13:28:31.123Z",
+      "expected_bytes": 70611719,
+      "path": "data/consumer/abac/XS5_ABAC_Consumer_v1.1_20260924.zip",
+      "sha256": "4a4b2ffa9fdd5857fc3798b6d5d361b15f49a2329b067b3ec4a5280bc8df83e5"
+    },
+    {
+      "id": "1L3u612NJqKINkKOGwgH8HAx9iWacVmYN",
+      "title": "AIM_RESEARCH_VIEWS_Consumer_v1.1.0_20260924.zip",
+      "url": "https://drive.google.com/file/d/1L3u612NJqKINkKOGwgH8HAx9iWacVmYN/view",
+      "mime_type": "application/zip",
+      "modified_time": "2026-09-24T13:28:17.094Z",
+      "expected_bytes": 59399101,
+      "path": "data/consumer/research_views/AIM_RESEARCH_VIEWS_Consumer_v1.1.0_20260924.zip",
+      "sha256": "f145e1ddd8146db072a6c72d1ea1bcb8ba346f0d27e385ce9b956b349d387c58"
+    },
+    {
+      "id": "1myJPCXJaZ_f_HaYTCLKCY2KB3loyfVHG",
+      "title": "AIM_RESEARCH_VIEWS_Consumer_v2.1.0_20260924.zip",
+      "url": "https://drive.google.com/file/d/1myJPCXJaZ_f_HaYTCLKCY2KB3loyfVHG/view",
+      "mime_type": "application/zip",
+      "modified_time": "2026-09-24T13:56:38.331Z",
+      "expected_bytes": 164079938,
+      "path": "data/consumer/research_views/AIM_RESEARCH_VIEWS_Consumer_v2.1.0_20260924.zip",
+      "sha256": "43518f1bb95b4675fbc6d75ab50c9af0a7b3912390c73f1b7625032ac88094f7"
+    },
+    {
+      "id": "1MxycXRBLDTisF4O3VIdWrvrHZAQx1DRq",
+      "title": "XS5_Market_Intelligence_Signals_Consumer_v1.2_20260925.zip",
+      "url": "https://drive.google.com/file/d/1MxycXRBLDTisF4O3VIdWrvrHZAQx1DRq/view",
+      "mime_type": "application/zip",
+      "modified_time": "2026-09-25T15:01:28.075Z",
+      "expected_bytes": 2759955,
+      "path": "data/consumer/qualitativo/XS5_Market_Intelligence_Signals_Consumer_v1.2_20260925.zip",
+      "sha256": "b4f383a851ec157323310a62548968cb2b41ddfcb3765b355557dae816529566"
+    },
+    {
+      "id": "19gwhqt2-eCrk35laxrF1rRfL_YnRrR_8",
+      "title": "XS5_2.1.11_Dicionario_Mestre_Entidades_20260831.xlsx",
+      "url": "https://drive.google.com/file/d/19gwhqt2-eCrk35laxrF1rRfL_YnRrR_8/view",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "modified_time": "2026-09-01T14:45:37.139Z",
+      "expected_bytes": 76126,
+      "path": "data/referencias/dicionarios/XS5_2.1.11_Dicionario_Mestre_Entidades_20260831.xlsx",
+      "sha256": "36b0e3655bd004ca0f2643d330bbbab8b82bee022872a346036077d397130b03"
+    },
+    {
+      "id": "10tKhbT_cJVZkq8wJoe2zGlCDoB5WgINXVYPYjV5qE8Q",
+      "title": "XS5_Catalogo_Consumer_E056_20260904",
+      "url": "https://docs.google.com/spreadsheets/d/10tKhbT_cJVZkq8wJoe2zGlCDoB5WgINXVYPYjV5qE8Q",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "modified_time": null,
+      "expected_bytes": 98123,
+      "path": "data/consumer/catalogo/XS5_Catalogo_Consumer_E056_20260904.xlsx",
+      "sha256": "779d284b1cbcd76c4aa10a7e7643f41f655e8987dd324242557a92d3be8f4059"
+    },
+    {
+      "id": "19kHPeCLKIu15fxzkYmIgw1TipcryMXSlpNK-eRAQFNo",
+      "title": "XS5_7.1.1_2.1.12_Caso_Uso_Golden_Set_MVP_20260901",
+      "url": "https://docs.google.com/spreadsheets/d/19kHPeCLKIu15fxzkYmIgw1TipcryMXSlpNK-eRAQFNo",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "modified_time": null,
+      "expected_bytes": 194265,
+      "path": "data/consumer/catalogo/XS5_7.1.1_2.1.12_Caso_Uso_Golden_Set_MVP_20260901.xlsx",
+      "sha256": "53b1c74d04b347c7e3c2d07befc8481cf07721e85554514e7c4a103c7e787cdf"
+    },
+    {
+      "id": "1mKUCMfuQcbyr5AR6-h30JLPdn8UjYQLtukhG0T97-xs",
+      "title": "WBS — Agente de Inteligência de Mercado XS5",
+      "url": "https://docs.google.com/spreadsheets/d/1mKUCMfuQcbyr5AR6-h30JLPdn8UjYQLtukhG0T97-xs",
+      "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "modified_time": null,
+      "expected_bytes": 252111,
+      "path": "data/referencias/governanca/WBS — Agente de Inteligência de Mercado XS5.xlsx",
+      "sha256": "5aea0b4e75fe2e048bca3ee919629a8bba9f6e454858bc35b4de14dd5d2cdbcb"
+    },
+    {
+      "id": null,
+      "title": "WBS_recebida_local_2026-11-12.xlsx",
+      "url": null,
+      "origin": "arquivo local fornecido pelo usuario",
+      "path": "data/referencias/governanca/WBS_recebida_local_2026-11-12.xlsx",
+      "expected_bytes": 252380,
+      "sha256": "6d3219dd05df74ffd3671c9a74f2aef04cceefcd4d3c5f79b8c981889943e154"
+    },
+    {
+      "id": null,
+      "title": "XS5_Diretriz_Operacional_para_IA_2026-11-12.pdf",
+      "url": null,
+      "origin": "arquivo local fornecido pelo usuario",
+      "path": "data/referencias/governanca/XS5_Diretriz_Operacional_para_IA_2026-11-12.pdf",
+      "expected_bytes": 135082,
+      "sha256": "cee1e180e553f38cc45106419c360c32e3efe22bf5bf545f1a3987aa292c72d4"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# Dependencias e ambientes locais
+.tools/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+# Credenciais e configuracoes privadas
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+# Corpus interno: baixar no ambiente autorizado; nao publicar no Git
+data/**
+!data/README.md
+80_Inteligencia_Estrategica/00_Temporarios/**
+!80_Inteligencia_Estrategica/00_Temporarios/.gitkeep
+80_Inteligencia_Estrategica/01_Relatorios/**
+!80_Inteligencia_Estrategica/01_Relatorios/.gitkeep
+*.log
+.DS_Store
+Thumbs.db
